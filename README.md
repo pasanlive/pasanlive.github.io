@@ -1,4 +1,4 @@
 # Welcome to PasanLive
 
 
-[Making TextView scrollable in Android](/pasanlive.github.io "Making TextView scrollable in Android") 
+[Making TextView scrollable in Android](/scroll_textview_android "Making TextView scrollable in Android") 
